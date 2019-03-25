@@ -297,7 +297,9 @@ Studying this object with MUSE will shed new light on the relation between the A
 % All macros in this box are NOT checked at the pdfLaTeX compilation.
 
 \ScientificRationale{The extended narrow-line region (ENLR) is a structure of ionized gas typical of active galactic nuclei (AGN) predicted by the unified model of AGN (Antonucci 1993, ARA\&A, 31, 473).
-It has a characteristic conical or bi-conical shape with the apexes pointing the AGN, due to the collimation of the radiation caused by the AGN torus,  and sizes comparable with those of the whole host galaxy (Mulchaey+ 1996, ApJ, 467, 197; Schmitt+ 2003, ApJ, 597, 768). It is often aligned to the radio emission produced by the AGN (e.g. Schmitt+ 2003, Morganti+ 2007, A\&A, 476, 735) and sometimes it shows complex line profiles (Ozaki 2009, PASJ, 61, 259, Congiu+ 2017a, MNRAS, 471, 562) produced by outflows observed both in the cold and warm phase of the interstellar medium (ISM; Morganti+ 1998, AJ, 115, 915; Morganti+ 2015, A\&A, 580, A1).
+It has a characteristic conical or bi-conical shape with the apexes pointing the AGN, due to the collimation of the radiation caused by the AGN torus,  and sizes comparable with those of the whole host galaxy (Mulchaey+ 1996, ApJ, 467, 197; Schmitt+ 2003, ApJ, 597, 768).
+
+It is often aligned to the radio emission produced by the AGN (e.g. Schmitt+ 2003, Morganti+ 2007, A\&A, 476, 735) and sometimes it shows complex line profiles (Ozaki 2009, PASJ, 61, 259, Congiu+ 2017a, MNRAS, 471, 562) produced by outflows observed both in the cold and warm phase of the interstellar medium (ISM; Morganti+ 1998, AJ, 115, 915; Morganti+ 2015, A\&A, 580, A1).
 This is usually considered a hint of interaction between the radio jets and the ISM in the ENLR (Unger+ 1987, MNRAS, 228, 671; Wilson+ 1994, AJ, 107, 1227; Nagar+ 1999, ApJS, 120, 209; Schmitt+ 2003, Berton+ 2016, A\&A, 591, 88), making it a natural laboratory to study the influence of the AGN in the life of the host galaxy, the so called  AGN feedback (Fabian 2012, ARA\&A, 50, 455).
 
 
@@ -318,7 +320,7 @@ The presence of both an ENLR and an extended radio emission makes Mrk 783 perfec
 The object is even more interesting because of the presence of the tidal tail and of the putative secondary nucleus observed closed to the AGN, possible hints of a recent merging.
 Merging are believed to be able to trigger the activity of active galaxies (e.g. Chiaberge+ 2015, ApJ, 806, 147, J\"arvel\"a+ 2018, A\&A, 619, 69; Berton+ 2019, AJ, 157, 48), and to bring gas to the ENLR (e.g. Cracco+ 2011, MNRAS, 418, 2630).
 
-\textbf{A deep, detailed study of Mrk 783 and its ENLR will allow us to improve our knowledge of these still far from understood mechanisms (feedback and mergings) in the life of AGN.}
+\textbf{A deep, detailed study of Mrk 783 and its ENLR will allow us to improve our knowledge of these still far from understood phases in the life of AGN.}
 
 }
 
@@ -385,8 +387,9 @@ The positions of the slit used for long slit observations are shown.
 \textbf{b)} H$\beta$ + [O III]$\lambda5007$ spectral region from the long slit LDSS3 Magellan spectrum. 
 Total exposure time $1$ hour, seeing $0.8$ arcsec, slit oriented along radio emission at PA $= 131\deg$. 
 The spatial resolution is $0.189\arcsec$ px$^{-1}$ and the dispersion is $\sim 2$ \AA\,px$^{-1}$.
-The emission is traced in all lines up to $30$ arcsec ($38$ kpc) from the nucleus.
-\textbf{c)} SDSS g-band image with surface brightness contours of Mrk 783. The position of the AGN, of the putative secondary nucleus and tidal tail are shown.
+The emission is traced in all emission lines up to $30$ arcsec ($38$ kpc) from the nucleus.
+The optical emission is extended well beyond the radio emission, which is almost contained inside the host galaxy.
+\textbf{c)} SDSS g-band image with iso-surface brightness contours of Mrk 783 emission. The position of the AGN, of the second point-like structure and of the putative tidal tail are shown.
  }
 
 
